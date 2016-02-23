@@ -1,1 +1,1 @@
-This is a basic test framework setup for Selenium+TestNG project (MAC).
+This is a project to automate different scenarios for Amazon.com, Ebay, and MNS.

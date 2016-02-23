@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="12544" started-at="2016-02-23T00:40:30Z" finished-at="2016-02-23T00:40:42Z">
+  <suite name="Default suite" duration-ms="11823" started-at="2016-02-23T20:43:59Z" finished-at="2016-02-23T20:44:11Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="12544" started-at="2016-02-23T00:40:30Z" finished-at="2016-02-23T00:40:42Z">
+    <test name="Default test" duration-ms="11823" started-at="2016-02-23T20:43:59Z" finished-at="2016-02-23T20:44:11Z">
       <class name="SimpleTest">
-        <test-method status="PASS" signature="checkEqual()[pri:0, instance:SimpleTest@1134affc]" name="checkEqual" duration-ms="20" started-at="2016-02-22T16:40:30Z" finished-at="2016-02-22T16:40:30Z">
+        <test-method status="PASS" signature="checkEqual()[pri:0, instance:SimpleTest@1134affc]" name="checkEqual" duration-ms="14" started-at="2016-02-23T12:43:59Z" finished-at="2016-02-23T12:43:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkEqual -->
-        <test-method status="PASS" signature="testGoogleChrome()[pri:0, instance:SimpleTest@1134affc]" name="testGoogleChrome" duration-ms="5520" started-at="2016-02-22T16:40:30Z" finished-at="2016-02-22T16:40:35Z">
+        <test-method status="PASS" signature="testGoogleChrome()[pri:0, instance:SimpleTest@1134affc]" name="testGoogleChrome" duration-ms="5469" started-at="2016-02-23T12:43:59Z" finished-at="2016-02-23T12:44:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGoogleChrome -->
-        <test-method status="PASS" signature="testGoogleFF()[pri:0, instance:SimpleTest@1134affc]" name="testGoogleFF" duration-ms="3473" started-at="2016-02-22T16:40:35Z" finished-at="2016-02-22T16:40:39Z">
+        <test-method status="PASS" signature="testGoogleFF()[pri:0, instance:SimpleTest@1134affc]" name="testGoogleFF" duration-ms="3561" started-at="2016-02-23T12:44:04Z" finished-at="2016-02-23T12:44:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGoogleFF -->
-        <test-method status="PASS" signature="testSafari()[pri:0, instance:SimpleTest@1134affc]" name="testSafari" duration-ms="3490" started-at="2016-02-22T16:40:39Z" finished-at="2016-02-22T16:40:42Z">
+        <test-method status="PASS" signature="testSafari()[pri:0, instance:SimpleTest@1134affc]" name="testSafari" duration-ms="2741" started-at="2016-02-23T12:44:08Z" finished-at="2016-02-23T12:44:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSafari -->
